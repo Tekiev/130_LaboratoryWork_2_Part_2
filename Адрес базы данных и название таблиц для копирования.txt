@@ -1,0 +1,6 @@
+jdbc:mysql://localhost:3306/store_on_sofa
+
+
+goods
+orders
+posisions
